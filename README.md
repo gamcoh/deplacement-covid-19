@@ -7,6 +7,8 @@ $ git clone https://github.com/gamcoh/deplacement-covid-19.git
 $ cd deplacement-covid-19
 $ npm install
 ```
+Il faut ensuite téléchargé les 'credentials' Google Drive, suivez ce [lien](https://developers.google.com/drive/api/v3/quickstart/nodejs).
+Une fois le fichier `credentials.json` téléchargé, déplacez le à la racine de ce dossier.
 
 ### Utiliser une fois
 Pour l'utiliser qu'une fois de temps en temps, lancez cette commande :
