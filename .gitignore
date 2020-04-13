@@ -185,3 +185,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/node,code,linux,macos,windows
+
+lib
+credentials.json
+token.json
+certificate.pdf

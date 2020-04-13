@@ -1,0 +1,10 @@
+{
+  "lastname": "<YOUR_LASTNAME>",
+  "firstname": "<YOUR_FIRSTNAME>",
+  "birthday": "<DAY/MONTH/YEAR>",
+  "lieunaissance": "<CITY_WHERE_YOU_WERE_BORN>",
+  "address": "<YOUR_ADDRESS>",
+  "zipcode": "<YOUR_ZIPCODE>",
+  "town": "<YOUR_TOWN>",
+  "reasons": "<THE_REASONS_WHY_YOU_NEED_TO_GO_OUT (accepted: courses, travail, sante, famille, sport, judiciaire, missions)>"
+}
