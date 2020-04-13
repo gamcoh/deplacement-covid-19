@@ -5,7 +5,7 @@
   "main": "certificate.js",
   "scripts": {
     "lint": "eslint ./*.js",
-    "build": "babel src -d lib"
+    "build": "babel src -d lib && node lib/main.js"
   },
   "repository": {
     "type": "git",
